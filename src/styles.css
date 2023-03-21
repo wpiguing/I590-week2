@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+}
+
+.line {
+  display: block;
+  width: 100%;
+  top: 50%;
+  height: 1px;
+  position: absolute;
+  background-color: #990000;
+}
